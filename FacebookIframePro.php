@@ -2,7 +2,7 @@
 /* 
 Plugin Name: Facebook iFrame Pro™ WP-Plugin 
 Plugin URI: http://www.trafictune.com  
-Description: Facebook iFrame Pro™ est un Plugin Wordpress facile à utiliser qui vous permet de générer des Fanpages IFRAME en 5 Minutes. Vous pouvez également jouter un Code d'auto-répondeur automatique. Inclut PDF & Instructions vidéo.
+Description: Facebook iFrame Pro™ est un Plugin Wordpress facile à utiliser qui vous permet de générer des Fanpages IFRAME en moins de 5 Minutes.
 Author: Abdellah
 Author URI: http://www.trafictune.com
   
