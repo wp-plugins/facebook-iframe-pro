@@ -5,7 +5,7 @@ Description: Facebook iFrame Pro™ est un Plugin Wordpress facile à utiliser qui 
 Author: Abdellah
 Author URI: http://www.trafictune.com 
 
-Version: 0.1.2
+Version: 1.2
 
 --- CE PLUGIN ET TOUS LES FICHIERS INCLUS SONT COPYRIGHT © 2011. 
 VOUS NE POUVEZ PAS MODIFIER, REVENDRE, DISTRIBUER OU COPIER CE CODE EN QUELQUE SORTE. ---
