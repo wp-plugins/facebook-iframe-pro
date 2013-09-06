@@ -15,9 +15,9 @@ D&eacute;couvrez comment vous pouvez faire apparaitre votre site web dans les co
 
 = Facebook iFrame Pro&trade; Plugin WordPress =
 
-Facebook iFrame Pro™ est un Plugin Wordpress facile à utiliser qui vous permet de générer des Fanpages IFRAME en 5 Minutes. Vous pouvez également jouter un Code d'auto-répondeur automatique. Inclut PDF & Instructions vidéo.
+Facebook iFrame Pro&trade; est un Plugin Wordpress facile a utiliser qui vous permet de g&eacute;n&eacute;rer des Fanpages IFRAME en 5 Minutes. Vous pouvez &eacute;galement jouter un Code d'auto-r&eacute;pondeur automatique. Inclut PDF & Instructions vid&eacute;o.
 
-= Facebook iFrame Pro™ Fan Page =
+= Facebook iFrame Pro&trade; Fan Page =
 
 Quand Facebook &agrave; fait passer ses Fan Pages de FBML &agrave; IFRAMES, la course &eacute;tait de trouver une solution simple pour la cr&eacute;ation de la nouvelle FanPages IFRAME.
 
@@ -31,11 +31,11 @@ Inclus une tutoriels vid&eacute;o &eacute;tape par &eacute;tape & PDF d'Instruct
 * Ce plugin vous permettent de changer compl&egrave;tement d'apparence.
 * Changer les images, fond, bordures, tailles de police et bien plus encore.
 * Stade WYSIWYG et aper&ccedil;u permettant une personnalisation facile avec z&eacute;ro codage.
-* Créer autant de Fan Page que vous souhaitez affiche, ou une seul Fan Page.
+* Cr&eacute;er autant de Fan Page que vous souhaitez affiche, ou une seul Fan Page.
 
 Il est super facile d'ajouter des images ou changer votre Fan Page avec les outils de la biblioth&egrave;que de &eacute;dias de votre site WordPress. Images et boutons peuvent &ecirc;tre redimensionn&eacute;s.
 
-T&eacute;l&eacute;charger le plugin Facebook iFrame Pro™ pour WordPress gratuitement et augmenter le tarif de vos produits et serices des aujourd'hui !
+T&eacute;l&eacute;charger le plugin Facebook iFrame Pro&trade; pour WordPress gratuitement et augmenter le tarif de vos produits et serices des aujourd'hui !
 
 == Installation ==
 
