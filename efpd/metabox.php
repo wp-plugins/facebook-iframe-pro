@@ -61,7 +61,7 @@ function get_meta_text_input_efbpd($args=array(),$value=false){
 		<td>
 			<input type="text" name="<?php echo $name; ?>" id="<?php echo $name; ?>" value="<?php echo wp_specialchars($value,1); ?>" size="30" tabindex="30" style="width: 97%;" />
 			<input type="hidden" name="<?php echo $name; ?>_noncename" id="<?php echo $name; ?>_noncename" value="<?php echo wp_create_nonce(plugin_basename(__FILE__)); ?>" />
-            <p>For Help, visit <a href="<?php global $helpurl; echo $helpurl; ?>" target="_blank"><?php global $helplink; echo $helplink; ?></a></p>
+            <p>De l'aide, visit <a href="<?php global $helpurl; echo $helpurl; ?>" target="_blank"><?php global $helplink; echo $helplink; ?></a></p>
 		</td>
 	</tr>
 	<?php
