@@ -1,8 +1,8 @@
 === Facebook iFrame Pro&trade; Plugin WordPress ===
 Contributors: Media-Infoproduit
-Donate link: http://www.media-infoproduit.com
+Donate link: http://www.media-infoproduit.com/facebookiframepro/
 Plugin Script: FacebookIframePro.php
-Plugin URI: http://www.media-infoproduit.com/facebookiframepro/
+Plugin URI: http://www.media-infoproduit.com
 Tags: Facebook iFrame Pro, iFrame, iFrames, imblocable, optin, iFrame, optin iFrame, iFrame plein écran, iFrame plein écran, iFrame pleine page, fenêtre iFrame-up, boîte contextuelle, onclick iFrame, message contextuel, Facebook iFrame, Google iFrame, Facebook iFrame, Twitter iFrame, mailchimp iFrame, contact iFrame, wjsija iFrame, message iFrame, page iFrame, pages, widget, tableau de bord iFrame, shortcode, iFrame
 Requires at least: 3.3
 Tested up to: 3.6
