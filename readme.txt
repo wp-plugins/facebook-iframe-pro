@@ -6,7 +6,7 @@ Plugin URI: http://www.media-infoproduit.com
 Tags: Facebook iFrame Pro, iFrame, iFrames, imblocable, optin, iFrame, optin iFrame, iFrame plein écran, iFrame plein écran, iFrame pleine page, fenêtre iFrame-up, boîte contextuelle, onclick iFrame, message contextuel, Facebook iFrame, Google iFrame, Facebook iFrame, Twitter iFrame, mailchimp iFrame, contact iFrame, wjsija iFrame, message iFrame, page iFrame, pages, widget, tableau de bord iFrame, shortcode, iFrame
 Requires at least: 3.3
 Tested up to: 3.6
-Stable tag: 1.2.6
+Stable tag: 1.2.7
 License: GPLv2
                 
 D&eacute;couvrez comment vous pouvez faire apparaitre votre site web dans les comptes sociaux de plus de 1 milliard d'utilisateurs sur Facebook ! Rendre enfin votre trafic travaillent pour vous ! G&eacute;n&eacute;rer des tonnes de trafic avec vos Fan Page Facebook sur votre sites Wordpress rapidement et facilement.
