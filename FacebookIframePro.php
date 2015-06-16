@@ -12,7 +12,7 @@ Version: 1.2
 /* Options rebrandable */
 $pluginslug = 'facebook-iframe-pro'; // Cela devrait être le nom du dossier principal de plugin. Par exemple `wp-content/plugins/{$pluginslug}/`.
 $pluginname = 'Facebook iFrame Pro'; // C'est le nom du plugin qui est affiché publiquement. Cela devrait être le même que ci-dessus dans les en-têtes du plugin.
-$pluginurl = 'http://www.media-infoproduit.com/facebookiframepro/'; // Il s'agit de l'URL vers le site Web principal du plugin. Cette variable est nécessaire pour l'affichage sur le site puisque je ne peux pas obtenir les informations du plugin ci-dessus.
+$pluginurl = 'http://www.mediainfoproduit.com/facebookiframepro/'; // Il s'agit de l'URL vers le site Web principal du plugin. Cette variable est nécessaire pour l'affichage sur le site puisque je ne peux pas obtenir les informations du plugin ci-dessus.
 $helplink = 'Cliquez ici'; // Ceci est le texte du lien « aide ».
 $helpurl = 'http://www.mediainfoproduit.com/facebookiframepro/bonus/'; // Il s'agit de l'URL vers le site de « aide ».
 $affbanner = 'http://www.mediainfoproduit.com/facebookiframepro/images/global-success-club.gif'; // Il s'agit d'une URL vers une image, affichée sur le tableau de bord WP sous `Fan Pages > Instructions` de Facebook iFrame Pro.
