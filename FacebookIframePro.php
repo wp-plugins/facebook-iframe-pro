@@ -6,7 +6,7 @@ Description: Facebook iFrame Pro™ est un Plugin Wordpress facile à utiliser q
 Author: Media Info Produit
 Author URI: http://www.mediainfoproduit.com
  
-Version: 0.1.3
+Version: 1.0.1
  
 */
 /* Options rebrandable */
